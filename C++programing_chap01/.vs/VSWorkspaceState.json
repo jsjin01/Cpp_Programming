@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\C++Programming_chap01",
+    "\\C++Programming_chap01\\C++Programming_chap01",
+    "\\C++Programming_chap01\\x64"
   ],
+  "SelectedNode": "\\C++Programming_chap01\\C++Programming_chap01\\C++Programming_chap01.vcxproj.user",
   "PreviewInSolutionExplorer": false
 }
